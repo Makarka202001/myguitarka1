@@ -78,14 +78,36 @@ section p{
   background-size: cover; 
   background-repeat: no-repeat;
   height: 100vh;
-  width: 100%;
+  width: 100vw;
+  height: 100vh;
 }
-.strumming1{
+.strum{
   height:125px;
   margin-left:800px;
-  margin-bottom:50px;
+  margin-bottom:150px;
+  margin-left:1150px;
+  
 }
 .strumming{
   height:125px;
-  margin-left:800px;
+  margin-left:1200px;
+  font-size:55px;
+  margin-bottom:-80px;
+}
+.chords{
+  width:650px;
+}
+
+.tabs{
+  text-align:left;
+  text-align-last: left;
+}
+.title{
+  margin-top:-1500px;
+  margin-left:1500px;
+  font-size:50px;
+}
+.tabs{
+  width:1000px;
+  margin-left:-1.7vw;
 }
