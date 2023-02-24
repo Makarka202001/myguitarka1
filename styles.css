@@ -2,10 +2,6 @@
   margin:0;
   padding:0;
 }
-body{
-    color:purple;
-    
-  }
 
 
 .header{
@@ -32,7 +28,6 @@ body{
 }
 
 .header a{
-  color:rgb(26, 19, 117);
   text-decoration: none;
   font-size:xx-large;
   text-transform: uppercase;
@@ -58,8 +53,8 @@ section{
   width: 100%;
   display: flex;
   margin: 0 auto;
-  border: 3px;
-  border-style:solid;
+  /* border: 3px;
+  border-style:solid; */
 }
 section p{
    width:100%
@@ -111,3 +106,19 @@ section p{
   width:1000px;
   margin-left:-1.7vw;
 }
+.txt_tabs{
+  margin-top:-1420px;
+  margin-left:1200px;
+  font-size:50px;
+}
+.cover{
+  border-radius:200px;
+  margin:500px;
+}
+.cover_txt{
+  margin-top:-1200px;
+  margin-left:1800px;
+  font-size:50px;
+  text-align: center;
+}
+
